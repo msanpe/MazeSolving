@@ -1,4 +1,4 @@
-Maze files from: [a link](https://github.com/mikepound/mazesolving/tree/master/examples)
+Maze files from: [mikepound-mazesolving](https://github.com/mikepound/mazesolving/tree/master/examples)
 
 
 # To run the program execute:
